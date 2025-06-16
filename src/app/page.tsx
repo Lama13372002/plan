@@ -682,7 +682,6 @@ export default function LandingPage() {
             </span>
             <span className="text-white/40">•</span>
             <span className="flex items-center font-bold text-green-400">
-              <DollarSign className="mr-2 h-5 w-5" />
               200,000 ₽
             </span>
             <span className="text-white/40">•</span>
